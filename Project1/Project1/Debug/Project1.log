@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/11/29 14:47:42。
+     1>项目“D:\cc++\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt tets.c
+         tets.c
+     1>d:\cc++\project1\project1\tets.c(3): warning C4013: “printf”未定义；假设外部返回 int
+     1>d:\cc++\project1\project1\tets.c(4): error C2146: 语法错误: 缺少“;”(在标识符“return0”的前面)
+     1>d:\cc++\project1\project1\tets.c(5): error C2065: “return0”: 未声明的标识符
+     1>d:\cc++\project1\project1\tets.c(5): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>已完成生成项目“D:\cc++\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28
